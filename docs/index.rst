@@ -1,9 +1,3 @@
-tox - automation project
-========================
-
-``tox`` aims to automate and standardize testing in Python. It is part of a larger vision of easing the packaging,
-testing and release process of Python software (alongside `pytest <https://docs.pytest.org/en/latest/>`_
-and `devpi <https://www.devpi.net>`_).
 
 .. image:: https://img.shields.io/pypi/v/tox?style=flat-square
   :target: https://pypi.org/project/tox/#history
